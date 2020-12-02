@@ -27,7 +27,7 @@ Number of Male and Female employees = `SUM(COUNTIF(<Gender Column>, <Cell where 
 Since Mr. Wayne regularly asks for new insights from the companys dataset, Alfred has decided to hire a Design Engineer that is capable of creating a simple but eye catching application, that is easy to use and capable of querying the dataset for various insights that have already been asked for by Mr. Wayne and that may be asked for by him in the future.
 
 ### Assessment Goal
-Design a simple but eye catching application, that is easy to use and capable of querying the dataset for the following insights and visually represent them in a way that is easy to understand:
+Design a simple but eye catching application that is easy to use, capable of querying the dataset provided for the insights listed below, and able to visually represent these insights:
 
 - What is the total headcount of Wayne Enterprises?
 - How many Male employees work here?
@@ -52,6 +52,8 @@ Your application will be assessed on the following criterias:
 
 5. Completeness. Can your application provide a wide range of insights that Mr. Wayne may ask for in the future?
 
+6. Ease of interpretation. How easy is it to interpret the insights produced by your application?
+
 #### Bonus Criteria
 It is not mandatory for your application to meet these criteria but you will receive bonus points if it does!
 
@@ -59,11 +61,11 @@ It is not mandatory for your application to meet these criteria but you will rec
 
 2. Web Application based solution. Although you are not required to build a Web Application based solution, it would be advantageous if you could show us that you are familiar with Web Technologies.
 
-3. Tech Stack comprising of one or more of the following:
+3. Tech Stack comprising of one or more of the following technologies:
 - JavaScript
 - TypeScript
 - React JS
-- d3.js
+- D3.js
 - Python
 
 ### Some Final Notes
