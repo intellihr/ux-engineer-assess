@@ -27,7 +27,7 @@ Number of Male and Female employees = `SUM(COUNTIF(<Gender Column>, <Cell where 
 Since Mr. Wayne regularly asks for new insights from the companys dataset, Alfred has decided to hire a Design Engineer that is capable of creating a simple but eye catching application, that is easy to use and capable of querying the dataset for various insights that have already been asked for by Mr. Wayne and that may be asked for by him in the future.
 
 ### Assessment Goal
-Design a simple but eye catching application that is easy to use, capable of querying the dataset provided for the insights listed below, and able to visually represent these insights:
+Build a simple but eye catching application that is easy to use, capable of querying the dataset provided for the insights listed below, and able to visually represent these insights:
 
 - What is the total headcount of Wayne Enterprises?
 - How many Male employees work here?
