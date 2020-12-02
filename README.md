@@ -1,4 +1,4 @@
-# Analytics Team Assessment for UX Engineer
+# intelliHR's hiring assessment for UX Engineers - Team Analytics
 
 ## Employee Data Visualization App
 
@@ -7,7 +7,7 @@
 `Wayne Enterprises` keeps all their employee data in a small csv file (`./data/employee.csv`).
 `Bruce Wayne`, the CEO of the company, regularly asks his manager, Alfred, for various insights from the companys data.
 
-Some of insights that Mr. Wayne has asked for in the past include:
+Some of the insights that Mr. Wayne has asked for in the past include:
 - What is the total headcount of Wayne Enterprises?
 - How many Male employees work here?
 - How many Female employees work here?
@@ -67,4 +67,8 @@ It is not mandatory for your application to meet these criteria but you will rec
 - Python
 
 ### Some Final Notes
-Please note that the `Main Criteria` will be given higher preference than the `Bonus Criteria`. That is, an application that strongly addresses the Main Criteria and doesn't address the Bonus Criteria at all may be given higher preference than one that loosely addresses the Main and Bonus criterias.
+Please note that the `Main Criteria` will be given higher preference over the `Bonus Criteria`. That is, an application that strongly addresses the Main Criteria and doesn't address the Bonus Criteria at all may be given higher preference than one that loosely addresses both the Main and Bonus criterias.
+
+If you have any questions or concerns regarding the assessment, please reach out to the hiring manager that sent you this assessment.
+
+Have fun!
