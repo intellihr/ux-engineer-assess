@@ -10,11 +10,11 @@ every time when the boss want to get some insights from the data.
 
 Some of these questions the business want to know about are like:
 
-1. what are the headcount for different gender type, work classes, age groups and business units?
+1. what are the headcount for different gender type, work classes, work rights, age groups and business units?
 
-2. what's the age distribution like for different gender type, work classes, etc.?
+2. what's the age distribution like for different gender type, work rights, work classes, etc.?
 
-3. what's the headcount trend over time like for different gender type, work classes, etc.?
+3. what's the headcount trend over time like for different gender type, work rights, work classes, etc.?
 
 
 The HR manager normally spend more than 5 hours to create a report for the business to answer above question using excel spread sheet. Recently, the manager finally fed up with the manual task and decide to ask for your help to build a cool tool/app that can be used to answer the above problems with their dataset.
