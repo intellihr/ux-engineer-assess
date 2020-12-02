@@ -42,7 +42,7 @@ Additionally, the application should be capable of providing additional insights
 Your application will be assessed on the following criteria:
 
 #### Main Criteria
-1. Ease of use. Does it take a lot of effort to use your application and interpret the results it produces?
+1. Ease of use. Does it take a lot of effort to use your application?
 
 2. Aesthetics. How eye catching is your application?
 
