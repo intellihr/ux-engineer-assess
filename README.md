@@ -24,7 +24,7 @@ He then displayed the values calculated above on a histogram and included the hi
 
 Number of Male and Female employees = `SUM(COUNTIF(<Gender Column>, <Cell where gender is Male>))` + `SUM(COUNTIF(<Gender Column>, <Cell where gender is Female>))`
 
-Since Mr. Wayne regularly asks for new insights from the companys dataset, Alfred has decided to hire a Design Engineer that is capable of creating a simple but eye catching application, that is easy to use and capable of querying the dataset for various insights that have already been asked for by Mr. Wayne and that may be asked for by him in the future.
+Since Mr. Wayne regularly asks for new insights from the companys dataset, Alfred has decided to hire a UX Engineer that is capable of creating a simple but eye catching application, that is easy to use and capable of querying the dataset for various insights that have already been asked for by Mr. Wayne and that may be asked for by him in the future.
 
 ### Assessment Goal
 Build a simple but eye catching application that is easy to use, capable of querying the dataset provided for the insights listed below, and able to visually represent these insights:
@@ -39,7 +39,7 @@ Additionally, the application should be capable of providing additional insights
 
 ### Assessment Criteria
 
-Your application will be assessed on the following criterias:
+Your application will be assessed on the following criteria:
 
 #### Main Criteria
 1. Ease of use. Does it take a lot of effort to use your application and interpret the results it produces?
